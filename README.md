@@ -29,9 +29,9 @@ The application is **multilingual**, allowing users to communicate with legal se
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
-| <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/c55a50b7-c3b4-4e90-b72c-c1e06f19d574" width="80%" height="70%"> | <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/88d1f136-2f86-48cf-a9d2-d81ba53c00a9" width="80%" height="70%"> | <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/4080cc41-bd3b-4dad-87d1-ceff88cc50a1" width="80%" height="70%"> |
-| <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/157bcc31-d94c-4858-834c-34c85e5c3666" width="80%" height="70%"> | <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/d597c2a4-94e0-4a44-958c-d07dae4c7f76" width="80%" height="70%"> | <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/6e4b8067-30f7-4bbf-9c9f-3d5a83785659" width="80%" height="70%"> |
-| <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/785e2a60-6910-4753-bd49-813bb6b93ac6" width="80%" height="70%"> | | <img src= "https://github.com/Taaveez/Taaveez-android/assets/85965606/d9baf0ca-61a0-461d-836d-fad614c97e6e" width="80%" height="70%">  |
+| <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160621_LegalBridge.jpg" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160627_LegalBridge.jpg" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160637_LegalBridge.jpg" width="80%" height="70%"> |
+| <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160824_LegalBridge.jpg" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160859_LegalBridge.jpg" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Taaveez/blob/master/Screenshot_20231220_160907_LegalBridge.jpg" width="80%" height="70%"> |
+
 
 
 

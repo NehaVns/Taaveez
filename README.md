@@ -1,14 +1,14 @@
 
-# Project - LegalBridge
+# LegalBridge
 
 
 
 A multilingual legal services application that connects users with diverse legal service providers, making legal assistance accessible and affordable. The Legal Services Application is designed to break down barriers to accessing legal support by providing a user-friendly platform where users can connect with legal service providers from various backgrounds.
 
-<h3 align = "center">Tired of waiting for Legal- Aid? <br>   Wait NO MORE!!!  <br>   LegalBridge is here to help.
+<h3 align = "center">Tired of waiting for Legal- Aid? <br>   Wait NO MORE!!!  <br>   LegalBridge is here to help😎.
 </h3> 
 
-# 📜App Description
+## 📜App Description
  
 The application primarily solves the following five challenges faced in the legal sector in India:-
 + Unorganized legal sector
@@ -22,7 +22,7 @@ The application primarily solves the following five challenges faced in the lega
 
 The application is **multilingual**, allowing users to communicate with legal service providers in their preferred language. This inclusivity ensures that users across India can access legal assistance in their native language. The text-to-speech synthesizer is a real help for illiterate parts of India.
 
-<h1 align=center>Screenshots 📸</h1>
+<h2 align=center>📸 Screenshots</h2>
 
 
 
@@ -47,7 +47,7 @@ The application is **multilingual**, allowing users to communicate with legal se
 - Machine Learning
 
 
-## Features of the Application ✨
+## ✨ Features of the Application 
 _LegalBridge_ focuses on the following key things:
 - Every Legal solution by chatbot
 - One-to-one consultancy with the Legal Experts
@@ -55,17 +55,16 @@ _LegalBridge_ focuses on the following key things:
 - Incentives for the lawyers
 
 
-## Architecture 👷‍♂️
-This app uses [MVVM(Model View View-Model)](https://developer.android.com/topic/architecture#recommended-app-arch) architecture.
+## 🧠 Recommendation model
+The figure demonstrates the flow diagram of the recommendation model.
+![image](https://github.com/NehaVns/Taaveez/assets/95272322/31326df7-0a63-46f4-bea8-2b7986658928)
 
-![image](https://github.com/Taaveez/Taaveez-android/assets/85965606/4e2286e2-1a54-4591-8e8a-8d7b15e31e2f)
 
-
-Clone your forked repository of the project.
+<!-- ### Clone your forked repository of the project.
 
 ```bash
 git clone https://github.com/<your_username>/Taaveez.git
-```
+``` -->
 
 
 

@@ -1,6 +1,9 @@
 
 # Project - LegalBridge
- 
+
+### Tired of waiting for Legal- Aid?    Wait NO MORE!!!     LegalBridge is here to help.
+
+
 A multilingual legal services application that connects users with diverse legal service providers, making legal assistance accessible and affordable. The Legal Services Application is designed to break down barriers to accessing legal support by providing a user-friendly platform where users can connect with legal service providers from various backgrounds.
 
 # 📜App Description
@@ -13,20 +16,9 @@ The application primarily solves the following five challenges faced in the lega
 + Uniform pricing across legal services
 
 
-### Tired of waiting for Legal- Aid? Wait NO MORE!!! LegalBridge is here to help.
-
-
-The foundation of this platform lies in the Kotlin language, empowering content creators to express their thoughts and ideas in an array of genres. 
-- From the eloquent beauty of **poems or कविताएं**, 
-- to the captivating narratives of **stories or कहानियां**, 
-- and even the profound wisdom of **couplets or दोहे**,
-- the possibilities for creativity are endless.
-
 ## 🌐Language
 
-Bilingual and dynamic, this platform offers unlimited updates and engaging visuals to elevate your content in **Hindi and English**.
-
-
+The application is **multilingual**, allowing users to communicate with legal service providers in their preferred language. This inclusivity ensures that users across India can access legal assistance in their native language. The text-to-speech synthesizer is a real help for illiterate parts of India.
 
 ## <h1 align=center>Screenshots 📸</h1>
 

@@ -1,21 +1,20 @@
 
-
-
-
-# LegalBridge
+# Project - LegalBridge
  
-🧑‍⚖️ This app will essentially provide a platform to bridge the gaps in legal service assistance for common people.
+A multilingual legal services application that connects users with diverse legal service providers, making legal assistance accessible and affordable. The Legal Services Application is designed to break down barriers to accessing legal support by providing a user-friendly platform where users can connect with legal service providers from various backgrounds.
 
 # 📜App Description
  
-The application primarily solves the following three challenges faced in the legal sector in India:-
+The application primarily solves the following five challenges faced in the legal sector in India:-
 + Unorganized legal sector
++ Linguistic Barrier 
 + Lack of transparency
-+ Incentivization 
++ Ensuring quality service
++ Uniform pricing across legal services
 
-<img src ="https://github.com/Taaveez/Taaveez-android/assets/85965606/7eee25d3-e14f-4935-9660-5d15515571cb" width="700" heigth="600">
 
-### Unleash your artistic expression with Taaveez, the perfect app for creatives. Say goodbye to disorganization, easily save, update, and share your work with a few taps.Track your journey and refine your work anytime, anywhere. Download now and unleash your creative potential!You can save all your stuff in one app.
+### Tired of waiting for Legal- Aid? Wait NO MORE!!! LegalBridge is here to help.
+
 
 The foundation of this platform lies in the Kotlin language, empowering content creators to express their thoughts and ideas in an array of genres. 
 - From the eloquent beauty of **poems or कविताएं**, 

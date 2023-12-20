@@ -1,22 +1,17 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Taaveez+-+तावीज़+-+تَعْوِیذ&fontSize=50).-->
 
 
 
-# Taaveez-android
+
+# LegalBridge
  
-✍️ This app will essentially provide simple and advanced functions for saving your poetry, stories, and other creative content in a beautifully designed interface.
-
-## 🔗 Download the App 
-
-<a href="https://play.google.com/store/apps/details?id=com.itssuryansh.taaveez"><img src="https://user-images.githubusercontent.com/85965606/220664283-12521007-d40f-4624-afc5-6ca049147087.png" width="25%" /></a>
-
-
-
-
+🧑‍⚖️ This app will essentially provide a platform to bridge the gaps in legal service assistance for common people.
 
 # 📜App Description
  
-It provides a creative environment for people who are fond of writing. This application targets poets and book authors who prefer innovative writing techniques.
+The application primarily solves the following three challenges faced in the legal sector in India:-
++ Unorganized legal sector
++ Lack of transparency
++ Incentivization 
 
 <img src ="https://github.com/Taaveez/Taaveez-android/assets/85965606/7eee25d3-e14f-4935-9660-5d15515571cb" width="700" heigth="600">
 
